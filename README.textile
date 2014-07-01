@@ -1,0 +1,9 @@
+README
+
+This was originally crawling proprietor data as well, i commented that out because at one request per record, that was causing a lot of CPU load on ScraperWiki 
+
+There is also a daily rate limit at SAA. Not apparent what it is, must be pretty high considering. 
+
+In the end i went through postcode outcodes, adding the first number of the incode for the really big ones. I'll look at the property data first and then more selectively scrape the ownership info. 
+
+I meant to add this fascinating link describing outcode areas: http://en.wikipedia.org/wiki/EH_postcode_area
